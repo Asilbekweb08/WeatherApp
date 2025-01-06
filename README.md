@@ -1,8 +1,8 @@
 # React Weather
 
 Weather App built with React.
-[Live Demo](https://esnz-reactweather.netlify.app/)
-
+![weather app light mode](image-3.png)
+![Weather app dark mode](image-1.png)
 ## Tech Stack
 
 **React, Typescript, Redux, StyledComponents**
